@@ -1,5 +1,5 @@
 ## Olá, eu sou Gusto!
-<section style="display: flex;">
+<div style="display: flex;">
  <div>
   <a href="https://github.com/AugustoSMoreira" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoSMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,7 @@
 <div>
   <img align="right" width="100px" alt="tags" src="https://camo.githubusercontent.com/9a8407426358d7f0e23e1f3170383171e47b2f5c0293f0133a7cf28b0ead6620/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32366e376237506a534f5a4a7756436d592f67697068792e676966">
 </div>
-</section>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,discord,nodejs,postgres,react,py,vscode," />
